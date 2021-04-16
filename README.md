@@ -1,7 +1,7 @@
 # Answers to Think Python: How to Think Like a Computer Scientist
 Back to basics - Doing the book to review some fundamentals in Computer Science and python
 
-This is intendent to review the bsaics concepts of programming in python. Feel free to use it, share or coorect for any mistakes.
+This is intendent to review the basics concepts of programming in python. Feel free to use it, share or coorect for any mistakes.
 
 - The files are divided by chapters.
 
