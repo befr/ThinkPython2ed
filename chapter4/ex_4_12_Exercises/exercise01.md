@@ -1,3 +1,3 @@
 # Stack Diagram
 
-![](Exercice01.svg)
+![](Exercise01.svg)

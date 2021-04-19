@@ -1,46 +1,46 @@
 <mxfile>
     <diagram id="Ozfs7oi_C82VS0DrP3Ld" name="Page-1">
-        <mxGraphModel dx="957" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="317" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="119" value="Stack Diagram&lt;br&gt;" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" parent="1" vertex="1">
+                <mxCell id="119" value="Stack Diagram&lt;br&gt;" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;labelBackgroundColor=none;fontColor=#000000;labelBorderColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="150" y="10" width="750" height="470" as="geometry"/>
                 </mxCell>
                 <mxCell id="120" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="119" vertex="1">
                     <mxGeometry y="30" width="750" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="121" value="_main_" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1" parent="120" vertex="1">
+                <mxCell id="121" value="&lt;span style=&quot;&quot;&gt;_main_&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;fontColor=#000000;" parent="120" vertex="1">
                     <mxGeometry width="113" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="122" value="&lt;span&gt;bob -&amp;gt; turtle.Turtle()&lt;br&gt;&lt;/span&gt;&lt;span&gt;radius -&amp;gt; 100&lt;br&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;fontStyle=1;fontColor=#FFFFFF;" parent="120" vertex="1">
+                <mxCell id="122" value="&lt;span&gt;bob -&amp;gt; turtle.Turtle()&lt;br&gt;&lt;/span&gt;&lt;span&gt;radius -&amp;gt; 100&lt;br&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;fontColor=#000000;" parent="120" vertex="1">
                     <mxGeometry x="113" width="637" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="124" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="119" vertex="1">
                     <mxGeometry y="70" width="750" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="125" value="circle" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1" parent="124" vertex="1">
+                <mxCell id="125" value="&lt;span style=&quot;&quot;&gt;circle&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;fontColor=#000000;" parent="124" vertex="1">
                     <mxGeometry width="113" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="126" value="t -&amp;gt; turtle.Turtle()&lt;br&gt;r -&amp;gt; 100" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;align=left;fontColor=#FFFFFF;" parent="124" vertex="1">
+                <mxCell id="126" value="t -&amp;gt; turtle.Turtle()&lt;br&gt;r -&amp;gt; 100" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;align=left;labelBackgroundColor=none;labelBorderColor=none;fontColor=#000000;" parent="124" vertex="1">
                     <mxGeometry x="113" width="637" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="128" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="119" vertex="1">
                     <mxGeometry y="110" width="750" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="129" value="arc" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1" parent="128" vertex="1">
+                <mxCell id="129" value="arc" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;fontColor=#000000;" parent="128" vertex="1">
                     <mxGeometry width="113" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="130" value="t -&amp;gt; turtle.Turtle()&lt;br&gt;r -&amp;gt; 100&amp;nbsp;&lt;br&gt;angle -&amp;gt; 360&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(13 , 17 , 23)&quot;&gt;&lt;font&gt;arc_length -&amp;gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box&quot;&gt;628.3185307179587&lt;br&gt;&lt;span style=&quot;background-color: rgb(13 , 17 , 23)&quot;&gt; &lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box&quot;&gt;&lt;span&gt;n -&amp;gt; &lt;/span&gt;&lt;span&gt;160&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(13 , 17 , 23)&quot;&gt;step_length -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;3.9269908169872414&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(13 , 17 , 23)&quot;&gt;step_angle -&amp;gt; &lt;/span&gt;2.25&lt;br&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;align=left;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="128" vertex="1">
+                <mxCell id="130" value="t -&amp;gt; turtle.Turtle()&lt;br&gt;r -&amp;gt; 100&amp;nbsp;&lt;br&gt;angle -&amp;gt; 360&lt;br&gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;font&gt;arc_length -&amp;gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box&quot;&gt;628.3185307179587&lt;br&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box&quot;&gt;&lt;span&gt;n -&amp;gt; &lt;/span&gt;&lt;span&gt;160&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;step_length -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;3.9269908169872414&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;step_angle -&amp;gt; &lt;/span&gt;2.25&lt;br&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;align=left;strokeColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;fontColor=#000000;" parent="128" vertex="1">
                     <mxGeometry x="113" width="637" height="160" as="geometry"/>
                 </mxCell>
                 <mxCell id="136" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="119" vertex="1">
                     <mxGeometry y="270" width="750" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="137" value="polyline" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1" parent="136" vertex="1">
+                <mxCell id="137" value="polyline" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;fontColor=#000000;" parent="136" vertex="1">
                     <mxGeometry width="113" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="138" value="&lt;font&gt;t -&amp;gt; turtle.Turtle()&lt;/font&gt;&lt;br&gt;&lt;font&gt;n -&amp;gt; 160&lt;/font&gt;&lt;br&gt;&lt;font&gt;step_lenght -&amp;gt; 3.9269908169872414&lt;br&gt;&lt;/font&gt;step_angle -&amp;gt; 2.25&lt;br&gt;&lt;br&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;align=left;fontColor=#FFFFFF;" parent="136" vertex="1">
+                <mxCell id="138" value="&lt;font&gt;t -&amp;gt; turtle.Turtle()&lt;/font&gt;&lt;br&gt;&lt;font&gt;n -&amp;gt; 160&lt;/font&gt;&lt;br&gt;&lt;font&gt;step_lenght -&amp;gt; 3.9269908169872414&lt;br&gt;&lt;/font&gt;step_angle -&amp;gt; 2.25&lt;br&gt;&lt;br&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;align=left;labelBackgroundColor=none;labelBorderColor=none;fontColor=#000000;" parent="136" vertex="1">
                     <mxGeometry x="113" width="637" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="132" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="119" vertex="1">
